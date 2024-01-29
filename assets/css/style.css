@@ -36,7 +36,7 @@ header a{
   color: inherit;
 }
 
-/* Largest headings targetted */
+/* Largest headings targeted */
 h1{
   font-family: 'oswald', sans-serif;
   text-transform: uppercase;
@@ -52,7 +52,7 @@ h1{
 }
 
 /* targets list items within the id of menu*/
-#menu < li{
+#menu > li{
   margin-bottom: 1em;
 }
 
@@ -136,7 +136,7 @@ Main{
     }
     /* Main content */
     main{
-      /* push main content down to accomodate larger header */
+      /* push main content down to accommodate larger header */
       margin-top: 79px;
     }
     
